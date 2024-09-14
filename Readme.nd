@@ -1,0 +1,3 @@
+Esse projeto ensina você a usar técnicas de machine learning para previsão de classes.
+O desafio aqui será prever se a renda de um indivíduo está acima de 50 mil ou não com base nas informações disponíveis no conjunto de dados.
+Os dados utilizados são oriundos do banco de dados Adult Census Income, disponível no Kaggle. Você pode obter mais informações sobre os dados em https://www.kaggle.com/datasets/uciml/adult-census-income/discussion?sort=hotness
